@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919710168973",
+    "project_id": "sales-bets-633eb",
+    "storage_bucket": "sales-bets-633eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919710168973:android:b18f1d70ba7950a2bdefc4",
+        "android_client_info": {
+          "package_name": "com.example.sales_bets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMYbXIbbdcjHsD9oaYQDvFtmje8msthw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
